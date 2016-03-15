@@ -43,3 +43,7 @@ from .tektronixOA5032 import tektronixOA5032
 
 # Current probe amplifiers
 from .tektronixAM5030 import tektronixAM5030
+
+
+#
+from .tektronixTDS3000 import tektronixTDS3052B
